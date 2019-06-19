@@ -8,3 +8,11 @@ automatically stay up-to-date with your remote repository?
 If it was an automatic pull from GitHub I could not have the overview any more
 since I would be swamped with project updates from my colleagues commiting
 their work on GitHub
+
+Describe the differences between forks, clones, and branches.
+When would you use one instead of another?
+
+forks can only exist within GitHub. They are clones in GitHub. Clones are
+copies for everything else, e.g. copies from GitHub to the local repository
+or copies within the local directory. branches are always within the same
+repository they are modifications, which have the same parent.

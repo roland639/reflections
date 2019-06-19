@@ -16,3 +16,9 @@ forks can only exist within GitHub. They are clones in GitHub. Clones are
 copies for everything else, e.g. copies from GitHub to the local repository
 or copies within the local directory. branches are always within the same
 repository they are modifications, which have the same parent.
+
+What is the benefit of having a copy of the last known state of the remote
+stored locally
+
+It allows to work offline or to explore the things that other people did
+on GitHub before merging it with my stuff.
